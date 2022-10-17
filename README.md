@@ -26,7 +26,7 @@
 
 <br />
 
-<h3> Contact </h3>
+<h2> Contact </h2>
 
 <div> 
   <a href="https://www.youtube.com/channel/UCruhXYRSa7uuFe303GWOqIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
