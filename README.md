@@ -3,6 +3,7 @@
 <div> Bem-vindo ao meu GitHub, eu sou um apaixonado por programção e tecnologias, atualmente sou estudante de desenolvimento web na trybe. </div>
 
 <br />
+<br />
 
 <div align="center">
   <a href="https://github.com/Gustavo-Aquino-1">
@@ -10,6 +11,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Aquino-1&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
+
+<br />
 
 <h2> My Skills <img src="https://emojigraph.org/media/apple/ninja_1f977.png" alt="ninja" height="30" /> <h2/>
 
