@@ -1,4 +1,4 @@
-## Ola Eu sou o Gustavo Aquino
+## Olá, Eu sou o Gustavo Aquino!
 
 <div align="center">
   <a href="https://github.com/Gustavo-Aquino-1">
