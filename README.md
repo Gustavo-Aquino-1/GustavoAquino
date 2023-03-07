@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Gustavo Aquino!
 
-<div> Bem-vindo ao meu GitHub, eu sou um apaixonado por programação e tecnologia, atualmente sou estudante de desenvolvimento web na trybe. </div>
+<div> Bem-vindo ao meu GitHub, eu sou um apaixonado por programação e tecnologia, atualmente sou um desenvolvedor FullStack. </div>
 
 <br />
 <br />
