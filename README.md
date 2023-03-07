@@ -44,6 +44,7 @@
  <br />
   
   Email: <strong>devgustma@gmail.com<strong/> 
+  Meu Portfólio: https://gustavo-aquino-portfolio.vercel.app/
   
 </div>
   
